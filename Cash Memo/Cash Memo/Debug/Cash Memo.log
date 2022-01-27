@@ -1,0 +1,171 @@
+﻿Build started 10/15/2019 11:58:05 PM.
+     1>Project "C:\Users\Shizan\Downloads\New folder\Cash Memo\Cash Memo\Cash Memo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Cash Memo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\mvs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(5): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES' : macro redefinition
+                 d:\mvs\vc\include\crtdefs.h(327) : see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(55): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(89): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\mvs\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(857): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(858): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(866): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(867): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(947): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(950): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(982): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(985): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1020): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1039): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1048): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1068): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1111): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1213): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1251): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1294): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1332): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1364): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1369): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1401): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1406): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1438): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1443): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1475): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1479): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1512): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1517): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1549): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1554): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1591): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1622): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1627): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1659): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1664): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1696): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1701): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1733): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1738): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1771): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1776): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1808): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1813): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1845): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1850): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1883): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1888): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1921): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1926): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1959): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1964): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(1996): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2001): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2033): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2038): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2093): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2099): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\shizan\downloads\new folder\cash memo\cash memo\imain.cpp(2102): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\mvs\vc\include\stdio.h(253) : see declaration of 'fscanf'
+       Link:
+         D:\mvs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shizan\Downloads\New folder\Cash Memo\Debug\Cash Memo.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Cash Memo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shizan\Downloads\New folder\Cash Memo\Debug\Cash Memo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shizan\Downloads\New folder\Cash Memo\Debug\Cash Memo.lib" /MACHINE:X86 Debug\iMain.obj
+         LINK : C:\Users\Shizan\Downloads\New folder\Cash Memo\Debug\Cash Memo.exe not found or not built by the last incremental link; performing full link
+         Cash Memo.vcxproj -> C:\Users\Shizan\Downloads\New folder\Cash Memo\Debug\Cash Memo.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Shizan\Downloads\New folder\Cash Memo\Debug\Cash Memo.exe;#1" /manifest "Debug\Cash Memo.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Cash Memo.unsuccessfulbuild".
+         Touching "Debug\Cash Memo.lastbuildstate".
+     1>Done Building Project "C:\Users\Shizan\Downloads\New folder\Cash Memo\Cash Memo\Cash Memo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.66
